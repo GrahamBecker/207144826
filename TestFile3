@@ -1,0 +1,4 @@
+public class MyProgramTest{
+MyProgram program;
+int someVariable;
+}
